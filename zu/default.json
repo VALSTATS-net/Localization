@@ -1,9 +1,9 @@
 {
-    "/* API */"
+    "/* API */": "",
     "no username given": "No username has been given.",
     "%NOT_LOGGEDIN%": "User is not logged in.",
     
-    "/* CLIENT */"
+    "/* CLIENT */": "",
     "%NEWS%": "News",
     "%CHANGELOG%": "Changelog",
     "%SEARCH_PLACEHOLDER%": "Match-ID or Player...",
