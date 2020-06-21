@@ -1,4 +1,25 @@
 {
   "no username given": "Es wurde kein Benutzername angegeben.",
-  "%NOT_LOGGEDIN%": "Der Benutzer ist nicht angemeldet."
+  "%NOT_LOGGEDIN%": "Der Benutzer ist nicht angemeldet.",
+  "%NEWS%": "News",
+  "%CHANGELOG%": "Changelog",
+  "%SEARCH_PLACEHOLDER%": "Match-ID oder Spieler...",
+  "%TOPLIST%": "Topliste",
+  "%ACCOUNT%": "Account",
+  "%ACCOUNT_SETTINGS%": "Accounteinstellungen",
+  "%LANGUAGE_SETTINGS%": "Spracheinstellungen",
+  "%LOGOUT%": "Abmelden",
+  "%REGISTER%": "Registrieren",
+  "%LOST_PASSWORD%": "Passwort vergessen",
+  "%LOGIN_TITLE%": "Mit deinem Account anmelden",
+  "%USERNAME%": "Benutzername",
+  "%PASSWORD%": "Passwort",
+  "%LOGIN%": "Anmelden",
+  "%REGISTER_DESCRIPTION%": "Keinen Account?",
+  "%REGISTER_TITLE%": "Neuen Account registrieren",
+  "%PASSWORT_REPEATMENT%": "Passwort wiederholen",
+  "%LANGUAGE_TITLE%": "Spracheinstellungen",
+  "%SAVE%": "Speichern",
+  "%OK%": "OK",
+  "%LOST_PASSWORD_TITLE%": "Wir können derzeit keine Passwortzurücksetzfunktion anbieten."
 }
