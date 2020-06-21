@@ -1,3 +1,4 @@
 {
-    "no username given": "No username has been given."
+    "no username given": "No username has been given.",
+    "%NOT_LOGGEDIN%": "User is not logged in."
 }
