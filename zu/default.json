@@ -1,4 +1,28 @@
 {
+    "/* API */"
     "no username given": "No username has been given.",
     "%NOT_LOGGEDIN%": "User is not logged in."
+    
+    "/* CLIENT */"
+    "%NEWS%": "News",
+    "%CHANGELOG%": "Changelog",
+    "%SEARCH_PLACEHOLDER%": "Match-ID or Player...",
+    "%TOPLIST%": "Toplist",
+    "%ACCOUNT%": "Account",
+    "%ACCOUNT_SETTINGS%": "Account settings",
+    "%LANGUAGE_SETTINGS%": "Language settings",
+    "%LOGOUT%": "Logout",
+    "%REGISTER%": "Register",
+    "%LOST_PASSWORD%": "Lost password",
+    "%LOGIN_TITLE%": "Login to your account",
+    "%USERNAME%": "Username",
+    "%PASSWORD%": "Password",
+    "%LOGIN%": "Login",
+    "%REGISTER_DESCRIPTION%": "No account?",
+    "%REGISTER_TITLE%": "Register a new account",
+    "%PASSWORT_REPEATMENT%": "Password repeatment",
+    "%LANGUAGE_TITLE%": "Language settings",
+    "%SAVE%": "Save",
+    "%OK%": "OK",
+    "%LOST_PASSWORD_TITLE%": "Currently we cannot offer password recovery."
 }
